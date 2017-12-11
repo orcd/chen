@@ -1,0 +1,7 @@
+name: nihao,age:18;
+ name: zzz ,age:15;
+name: bzz , age:16;
+ name: dzi  , age : 35 ;
+name: yzy ,age:12;
+name:znz , age:25;
+name:ztz    ,age:5;
